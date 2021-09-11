@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Brooklyn-born, Guatemalan-spiced data scientist (Flatiron, Jovian, Google, codeAcademy, DataCamp, LinkedIn Learning) and machine learning engineer with a deep love for all things data, fitness, and guacamole! I have a long background in legal work, fitness, hospitality management, and acting!
+I am a Brooklyn-born, Guatemalan-spiced data scientist (certs: Flatiron, Jovian, Google, codeAcademy, DataCamp, LinkedIn Learning) and machine learning engineer with a deep love for all things data, fitness, and guacamole! I have a long background in legal work, fitness, hospitality management, and acting!
 
 - 🔭 I’m currently working on a machine learning program that can accurately classify your BMI being only given your lifestyle habits (how much water do you drink in a day? How many veggies do you eat in a day? etc) and not your height or weight (how BMI is normally classified)
 - 🌱 I’m currently learning Javascript and C++! I know I know, those languages aren't really needed for data science but I want to go for my Masters in Data Science and need to know some other languages to do so
